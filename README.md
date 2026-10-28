@@ -1,2 +1,19 @@
 # I2C-Master-Slave-Communication-Protocol
-Design and verification of an I2C Master-Slave communication protocol using Verilog and SystemVerilog, featuring START/STOP conditions, slave addressing, ACK/NACK responses, read/write operations, and testbench-based simulation.
+I2C-Master-Slave-Communication-Protocol/
+│
+├── README.md
+│
+├── rtl/
+│   ├── i2c_master.v
+│   └── i2c_slave.v
+│
+├── testbench/
+│   └── i2c_testbench.sv
+│
+├── simulation/
+│   └── README.md
+│
+├── docs/
+│   └── i2c_block_diagram.png
+│
+└── LICENSE
